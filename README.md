@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @retamprog
 - 👀 I’m interested in ... learning programming
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... java,python,webdev.
+- 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me ...retamphy2004@gmail.com, my mail id
 
 <!---
